@@ -44,7 +44,7 @@ Você deverá criar diversas consultas, com o objetivo de retornar os dados a se
 
 ## 1 - Buscar o nome e ano dos filmes
 
-![Exercicio 1](Imagens/1.png)
+![Exercicio 1](Resolução/1.png)
 
 ## 2 - Buscar o nome e ano dos filmes, ordenados por ordem crescente pelo ano
 
